@@ -1,1 +1,1 @@
-# Project-Breast-Cancer-Detection-with-CNN
+Project Breast Cancer Detection with CNN
